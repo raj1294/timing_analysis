@@ -14,6 +14,7 @@ day = 86400 #day to seconds
 c = 3e8 #Speed of light
 Msun = 1.99e30 #Mass of Sun
 ls = c #Light-seconds
+nu0 = 2.98148
 
 def phase_mod_keplerian(p,x):
     
